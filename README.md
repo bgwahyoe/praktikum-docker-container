@@ -3,6 +3,11 @@
 Repository ini berisi hasil praktikum mata kuliah **Virtualisasi dan Keamanan Jaringan** yang berfokus pada penggunaan Docker untuk containerization, mulai dari dasar hingga implementasi multi-container application.
 
 ---
+# ✨ Author
+
+**Name : Wahyu Ahmad Yassin**
+**Nim : 0110224047**
+Teknik Informatika — STT Terpadu Nurul Fikri
 
 ## 📂 Struktur Project
 
@@ -178,13 +183,7 @@ http://localhost:8080
 
 ---
 
-# ✨ Author
 
-**Name : Wahyu Ahmad Yassin**
-**Nim : 0110224047**
-Teknik Informatika — STT Terpadu Nurul Fikri
-
----
 
 # 🚀 Penutup
 
